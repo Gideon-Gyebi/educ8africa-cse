@@ -1,0 +1,12 @@
+WEB VULNERABILITY SCANNER REPORT
+Target URL: https://demo.testfire.net/?utm_source=chatgpt.com
+Forms Detected: 1
+
+SQL Injection Results:
+No SQL Injection vulnerabilities detected
+
+XSS Results:
+Possible XSS Vulnerability Detected
+Form Action: /search.jsp
+Payload: <script>alert(1)</script>
+
