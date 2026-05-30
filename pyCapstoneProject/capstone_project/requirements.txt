@@ -1,0 +1,4 @@
+Requirements for the Capstone Project:
+
+1. requests
+2. beautifulsoup4
