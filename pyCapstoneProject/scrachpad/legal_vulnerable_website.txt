@@ -1,0 +1,5 @@
+1. http://www.amanhardikar.com/mindmaps/Practice.html (Website returned status code: 404)
+
+2. https://demo.testfire.net/?utm_source=chatgpt.com (Possible XSS Vulnerability Detected)
+
+3. https://testphp.vulnweb.com/?utm_source=chatgpt.com (Unable to access website)
