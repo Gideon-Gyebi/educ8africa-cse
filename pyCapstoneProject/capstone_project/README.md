@@ -41,6 +41,26 @@ pip install requests beautifulsoup4
 
 ---
 
+## Python venv setup steps:
+
+1. Create virtual environment:
+```bash
+   python -m venv venv
+```
+2. Activate (Git Bash):
+```bash
+   source venv/Scripts/activate
+```
+3. Run program:
+```bash
+   python <file_name>.py
+```
+4. Deactivate (Git Bash):
+```bash
+   deactivate
+```
+---
+
 ## How to run the scanner:
 
 ```bash
